@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hassan-ish
-- 👀 I’m interested in front-end Web Development 
+- 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning NextJS
 <!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me <a href="https://www.linkedin.com/in/hassanabuishaiba">linkedin<a>
