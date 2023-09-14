@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassan-ish
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning NextJS,MongoDB and Nodejs
 <!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me <a href="https://www.linkedin.com/in/hassanabuishaiba">linkedin<a>
 
